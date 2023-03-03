@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net" modified="2023-02-15T06:15:05.823Z" agent="5.0 (X11)" etag="XNq64EIdbVV0fcPhO72v" version="20.8.20" type="github">
+  <diagram name="Page-1" id="oyOrwNGmoEICcLRfshtN">
+    <mxGraphModel dx="1824" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yNoOTB4ZNCp6xFnFgXVB-4" value="Reward" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yNoOTB4ZNCp6xFnFgXVB-6" value="Risk" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yNoOTB4ZNCp6xFnFgXVB-7" value="Effort" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yNoOTB4ZNCp6xFnFgXVB-9" value="" style="group;fontStyle=4;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="234.99999999999997" y="155" width="350" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="yNoOTB4ZNCp6xFnFgXVB-1" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="yNoOTB4ZNCp6xFnFgXVB-9">
+          <mxGeometry x="25.00000000000003" y="-25.00000000000003" width="300" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="yNoOTB4ZNCp6xFnFgXVB-8" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="yNoOTB4ZNCp6xFnFgXVB-9">
+          <mxGeometry x="100.00000000000003" y="135" width="150" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
